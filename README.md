@@ -1,7 +1,7 @@
 # Collection of Git Commands
 
 * Rename current branch
-git branch -m new_branch
+`$ git branch -m new_branch`
 
 * Undo your last commit
 `$ git reset --soft HEAD~`
